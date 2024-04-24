@@ -1,0 +1,2 @@
+# item_modifier-set_book_cover
+item_modifierの1項目であるset_book_coverのサンプルになります。
