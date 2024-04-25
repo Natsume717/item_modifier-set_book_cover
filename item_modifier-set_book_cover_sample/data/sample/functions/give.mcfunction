@@ -1,0 +1,1 @@
+give @a minecraft:written_book 8
