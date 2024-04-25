@@ -1,8 +1,7 @@
 # item_modifier-set_book_cover
 item_modifierの1項目であるset_book_coverのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_book_coverで本の情報を変更【item_modifier】](https://natsumake.com/item_modifier-set_book_cover/)』を参考にしてください。
 
 <h3>概要</h3>
 記入済みの本に対して、本の著者やタイトル、状態を指示したものへと変更します。
